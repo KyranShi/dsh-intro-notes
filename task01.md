@@ -29,7 +29,7 @@
 
 ## 二、作业 A：示意图
 
-![Model → Harness → 外部世界](./img/task1-diagram.png)
+![Model → Harness → 外部世界](./task01/img/task1-diagram.png)
 
 三个区域的箭头就是 Harness 的工作：把模型的"工具调用意向"变成对外部世界的**受控执行**，再把结果**回灌**进上下文。7 个缺口全部住在中间那列。
 
