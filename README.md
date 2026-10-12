@@ -5,7 +5,7 @@
 | Task | 主题 | 笔记 |
 |------|------|------|
 | Task01 | 为什么需要 Harness：Model → Harness → 外部世界（导读 + 第 1 章） | [task01.md](./task01.md) |
-| Task02 | 从零运行 DSH + 4 套 Preset 对照实验 | 打卡后更新 |
+| Task02 | 从零运行 DSH + 4 套 Preset 对照实验 | [task02.md](./task02.md) · [task02/](./task02/) |
 | Task03 | Preset / Scope / Host Plane / Agent Plane | 打卡后更新 |
 | Task04 | Creative 模式与 Cordis Kernel：概念地图收官 | 打卡后更新 |
 
